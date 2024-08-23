@@ -19,6 +19,4 @@ npm run build
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### commit
-nuevo commit
-
-agregamos este commit tambien
+seguimos intentando
